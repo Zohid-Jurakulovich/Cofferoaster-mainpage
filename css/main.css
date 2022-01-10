@@ -351,6 +351,11 @@ body{
   margin-bottom: 200px;
 }
 
+.how-it-works__elements{
+  margin-left: 85px;
+
+}
+
 .how-it-works__heading{
   font-family: "Fraunces", "Times New Roman", serif;
   font-weight: 900;
@@ -496,11 +501,11 @@ body{
   margin-left: auto;
 }
 
-.socia-media__link{
+.social-media__link{
   text-decoration: none;
 }
 
-.socia-media__link--active ~ .socia-media__link{
+.social-media__link--active ~ .social-media__link{
   margin-left: 24px;
 }
 
