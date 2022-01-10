@@ -447,6 +447,7 @@ body{
 
 .footer__box{
   display:flex;
+  margin-bottom: 88px;
   padding: 47px 85px;
   background-color:#2C343E;
 }
